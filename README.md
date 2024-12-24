@@ -1,1 +1,2 @@
-# -IPL_infographics_Infosys_Internship_Oct2024
+# INFOSYS_IPL_INFOGRAPHICS
+
